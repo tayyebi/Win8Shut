@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Upload\Win8Shut\Win8Shut\bin\Debug\Win8Shut.exe.config
+C:\Users\admin\Desktop\Upload\Win8Shut\Win8Shut\bin\Debug\Win8Shut.exe
+C:\Users\admin\Desktop\Upload\Win8Shut\Win8Shut\bin\Debug\Win8Shut.pdb
+C:\Users\admin\Desktop\Upload\Win8Shut\Win8Shut\obj\Debug\Win8Shut.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Upload\Win8Shut\Win8Shut\obj\Debug\Win8Shut.Main.resources
+C:\Users\admin\Desktop\Upload\Win8Shut\Win8Shut\obj\Debug\Win8Shut.Properties.Resources.resources
+C:\Users\admin\Desktop\Upload\Win8Shut\Win8Shut\obj\Debug\Win8Shut.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Upload\Win8Shut\Win8Shut\obj\Debug\Win8Shut.exe
+C:\Users\admin\Desktop\Upload\Win8Shut\Win8Shut\obj\Debug\Win8Shut.pdb
